@@ -1,0 +1,21 @@
+DESCRIÇÃO
+Um template de um site para um game mobile, com opções de download nas plataformas da Play Store e App Store com seus requisitos. Também tem uma aba com imagens
+para prévia do game com uma linkagem para um pequeno trailer do youtube
+
+
+JÁ FEITO
+• Página Home
+• Cabeçalho com botões (Notícias, Comunidade e Sistema)
+• Corpo com botões de downloads (Google Play e App Store), requisitos do smartphone e prévia do game
+• Rodapé com nome, copyright e links para Termos de Uso e Política de Privacidade
+
+PARA FAZER
+• Abas Notícias e Comunidade (Ao clicar abre uma pequena aba com o conteúdo do botão)
+• Abas de Termos de Uso e Política de Privacidade (Ao clicar abre uma pequena aba com o conteúdo do botão)
+• Design Responsivo (Media Queries)
+
+OBSERVAÇÃO
+Use o game de pc "Cuphead" como demonstrativo para criação desse site (sem uso comercial) representando como um pequeno site para uma game mobile
+
+
+
